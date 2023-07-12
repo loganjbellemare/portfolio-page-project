@@ -1,0 +1,95 @@
+/* style all content with border-box box-sizing*/
+
+header {
+  background: linear-gradient(180deg, red, orange, yellow, green, blue, indigo, violet);
+  color:azure;
+  text-shadow: 0 0 5px black;
+  text-align: left;
+  margin:0px;
+  padding: 5px;
+  box-sizing: border-box;
+  height:min-content;
+}
+header h1, header p {
+  line-height: 5px;
+}
+header h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  font-style: italic;
+}
+header p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  padding-right:175px;
+  font-style: italic;
+}
+main {
+  background-color: black;
+  color:white;
+  padding: 1em;
+  text-align: center;
+  box-sizing: border-box;
+  line-height: 50px;
+}
+main p, main li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+main h2 {
+  font-size: 50px;
+  font-family: 'Advent Pro', serif;
+  color: #E64085;
+  margin-bottom: 2em;
+}
+.about-me-box {
+  align-self: center;
+  width:fit-content;
+  border: 2px solid #40434E;
+  padding: 5px;
+  box-sizing: border-box;
+  margin:1em 0;
+}
+.intro-box, .contact-box {
+  box-sizing: border-box;
+  margin: 1em 0;
+  border:2px solid #40434E;
+}
+img {
+  width: 50%;
+  margin-top: 1em;
+  border-radius: 50%;
+  height: 25%;
+}
+hr {
+  background-color: #40434e;
+  height:4px;
+}
+li {
+  margin-left:200px;
+  margin-right:0;
+  padding-right:-200px;
+}
+footer {
+  background: #B5FFE9;
+  color: #40434E;
+  box-sizing: border-box;
+  padding:2px;
+  margin:0;
+  font-size: 13px;
+}
+a:link {
+  text-decoration: none;
+  color:#B5FFE9;
+}
+a:visited {
+  color: #e64085;
+}
+a:hover {
+  background-color: #40434E;
+  color: #fffffa;
+}
+a:active {
+  color:#390040;
+}
