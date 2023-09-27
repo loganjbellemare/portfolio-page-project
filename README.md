@@ -13,19 +13,19 @@
   * Use a listed variety of HTML elements and CSS properties
 
     ## Intro Section
-    (/screenshots/intro-section.png)
+    [intro section](/screenshots/intro-section.png)
     Specific tasks for this section were to include -
     * Who we are
     * Where we are currently located
 
     ## About Me Section
-    (/screenshots/about-me-section.png)
+    [about me section](/screenshots/about-me-section.png)
     Specific tasks for this section were to include -
     * A description of ourselves, showcasing our passion for development and our eagerness to work with peoople
     * One or two personal interests outside of coding
    
     ## Contact Section
-    (/screenshots/contact-section.png)
+    [contact section](/screenshots/contact-section.png)
     Specific tasks for this section were to include -
     * A link to our GitHub account page
     * A link to our Indeed profile page
